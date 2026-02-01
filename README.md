@@ -205,7 +205,7 @@ greenrouter/
 **Backend:**
 - Next.js API Routes (serverless functions)
 - Python 3.11+ with pandas
-- Sphinx CLI (Anthropic Claude)
+- Sphinx CLI 
 - Jupyter notebooks for AI context
 
 **Key Algorithms:**
@@ -370,8 +370,7 @@ Annual Impact: $255k saved, 6,315 tons CO2 reduced
 ## Acknowledgments
 
 - **MIT Energy & Climate Hackathon** - Competition platform
-- **Sphinx AI** - Hackathon sponsor & AI recommendation engine
-- **Anthropic** - Claude AI via Sphinx integration
+- **Sphinx AI** - Hackathon sponsor 
 
 ---
 
